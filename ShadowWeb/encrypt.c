@@ -7,6 +7,7 @@
 #include "table.h"
 #include "encrypt.h"
 
+
 #define CIPHER_TABLE 0
 #define CIPHER_OPENSSL 1
 #define CIPHER_SODIUM 2
